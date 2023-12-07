@@ -1,0 +1,7 @@
+Localizacao dos objectos:
+Mesa 52 36 64 47
+Cadeira 75 70 80 75
+Cadeira 35 50 40 55
+Piano 10 70 30 76
+Vaso 80 10 86 16
+Mesa 20 19 32 30

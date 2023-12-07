@@ -1,0 +1,8 @@
+Tamanho da janela de menu:
+800 700
+
+Nome da janela do Menu:
+Nível 3 - Menu
+
+Nome da Janela:
+Nível 3
