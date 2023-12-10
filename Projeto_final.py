@@ -2,7 +2,6 @@
 """
 Created on Mon Apr  3 22:49:12 2023
 
-@author: Pedro Rosa-106426 e João Miguel-105995
 """
 from graphics import *
 from math import *
